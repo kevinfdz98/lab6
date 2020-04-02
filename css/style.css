@@ -1,0 +1,12 @@
+.mainDiv{
+    border-color: black;
+    border-style: dotted;
+}
+
+li{
+    list-style: none;
+}
+
+.clickable:hover {
+    cursor : pointer; 
+}
